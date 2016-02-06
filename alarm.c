@@ -1,3 +1,4 @@
+//Kill the process after 6 second
 #include<stdio.h>
 #include<unistd.h>
 #include<signal.h>
