@@ -14,12 +14,7 @@ main(int argc,char **argv)
 	int id;
 	struct msgbuf v;
 	printf(":%d\n",argc);
-	/*if(argc!=2)
-	{
-		printf("lund ke bal\n");
-		exit(0);
-	}
-	*/
+	
 	v.mtype=3;
 	printf("mtype=%ld",v.mtype);
 	id=msgget(1,IPC_CREAT|0600);
