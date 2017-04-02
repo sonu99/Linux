@@ -23,3 +23,5 @@ Ans:-
 Q---> how to jump user space to kernel space.
 Ans:-
 ------------------------------------------------------------------Process manager--------------------------------------------
+Q> how priority inversion occure
+Q> what is priority inheritance
