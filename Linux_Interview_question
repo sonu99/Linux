@@ -1,0 +1,24 @@
+Linux and Device Driver:
+========================
+1> Ioctl 
+2> I/o mapped and Memory mapped
+3> Mutext, semaphore and spin lock.
+4> Usersapce and kernel space difference.
+5> Char driver call flow (application to driver)
+
+
+
+
+
+
+
+
+
+
+Hardware:
+=========
+Timer and Counter
+
+C Programming:
+==============
+Structure and union difference
