@@ -8,6 +8,7 @@ http://tldp.org/LDP/lpg/
 
       Basic link:
       http://www.enseignement.polytechnique.fr/informatique/INF583/INF583_5.pdf 
+      https://www.linuxjournal.com/article/8178
 
 
 
