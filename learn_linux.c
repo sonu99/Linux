@@ -21,5 +21,11 @@ http://www.c-program-example.com/2012/04/c-program-to-lock-file-using-semaphores
 
 http://www.sanfoundry.com/linux-debugging-questions-answers-posix-ipcs/
 
+IPC machanism:
+
+http://www.chandrashekar.info/articles/linux-system-programming/introduction-to-linux-ipc-mechanims.html
+
+
+
 
 
