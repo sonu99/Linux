@@ -13,6 +13,9 @@ http://tldp.org/LDP/lpg/
 
 
       http://www.linux-tutorial.info/modules.php?name=MContent&pageid=312
+      topic wise:
+      -> pagein and Page table entry
+            https://www.geeksforgeeks.org/operating-system-translation-lookaside-buffer-tlb/
 
 
 
